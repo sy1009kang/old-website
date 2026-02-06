@@ -11,10 +11,8 @@ design:
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
-      # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
         url: uploads/resume.pdf
@@ -23,13 +21,19 @@ sections:
       background:
         color: black
         image:
-          # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
           filters:
             brightness: 1.0
           size: cover
           position: center
           parallax: false
+
+  - block: resume
+    content:
+      username: admin
+    design:
+      columns: '2'
+
   - block: markdown
     content:
       title: '📚 My Research'
