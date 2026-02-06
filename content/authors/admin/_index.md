@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role / tagline
-role: "Ph.D. Candidate & HCI Researcher (AR/VR)"
+role: Ph.D. Candidate, HCI Researcher (AR/VR)
 
 # Organizations / Affiliations
 organizations:
@@ -95,33 +95,6 @@ work:
     summary: |
       Collaborated on virtual human and social interaction research,
       advised by Prof. Jonathan Gratch.
-
-# Skills
-skills:
-  - name: Research & Technical
-    items:
-      - name: XR Interaction Design
-        percent: 90
-        icon: cube-transparent
-      - name: Avatar Facial Animation
-        percent: 90
-        icon: face-smile
-      - name: User Study & Statistical Analysis
-        percent: 85
-        icon: chart-bar
-      - name: Unity / C#
-        percent: 80
-        icon: code-bracket
-      - name: Python
-        percent: 75
-        icon: code-bracket
-
-# Languages
-languages:
-  - name: English
-    percent: 95
-  - name: Korean
-    percent: 100
 
 # Awards & Honors
 awards:
