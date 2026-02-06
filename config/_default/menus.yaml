@@ -4,12 +4,12 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Bio
+  - name: Home
     url: /
     weight: 10
-  - name: Papers
-    url: /#papers
-    weight: 11
-  - name: Projects
-    url: projects/
+  - name: Bio
+    url: /#bio
+    weight: 20
+  - name: Publications
+    url: /publication/
     weight: 30
