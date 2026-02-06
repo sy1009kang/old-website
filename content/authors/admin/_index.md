@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role / tagline
-role: Ph.D. Candidate & HCI Researcher (AR/VR)
+role: "Ph.D. Candidate & HCI Researcher (AR/VR)"
 
 # Organizations / Affiliations
 organizations:
