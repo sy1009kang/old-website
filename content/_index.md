@@ -35,11 +35,14 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a Ph.D. candidate at KAIST UVR Lab, specializing in avatar-mediated communication and empathic computing for AR/VR.
+        My research investigates how facial expressions, nonverbal cues, and AI-mediated behaviors shape social presence,
+        self-perception, and communication quality in immersive environments.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I design lightweight yet expressive avatar facial animation techniques and evaluate their perceptual and social impacts
+        through controlled user studies, bridging human-centered design and technical implementation for more natural XR communication.
+
+        If you're interested in collaboration, feel free to reach out.
     design:
       columns: '1'
   - block: collection
