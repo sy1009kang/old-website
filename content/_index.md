@@ -4,21 +4,22 @@ type: widget_page
 # 메인 화면 섹션들
 sections:
   - block: about.biography
-    content:
-      username: admin
+    id: about
   - block: collection
     id: publications
     content:
-      title: Selected Publications
+      title: Publications
       filters:
         folders:
           - publication
-    design:
-      view: citation # 연구자는 citation 뷰가 가장 깔끔합니다.
+  - block: experience
+    id: experience
+    content:
+      title: Experience
   - block: collection
     id: projects
     content:
-      title: Research Projects
+      title: Projects
       filters:
         folders:
           - project
