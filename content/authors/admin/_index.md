@@ -136,3 +136,14 @@ awards:
     summary: |
       Selected to contribute to ISO/IEC JTC 1/SC 24 (AR/VR) standardization activities.
 ---
+
+#About Me
+I am a Ph.D. candidate at the Ubiquitous Virtual Reality (UVR) Lab at KAIST, specializing in
+avatar-mediated communication and empathic computing for AR/VR. My research investigates
+how facial expressions, nonverbal cues, and AI-mediated behaviors influence social presence,
+self-perception, and communication quality in immersive environments.
+
+I focus on designing lightweight yet expressive avatar facial animation techniques and
+evaluating their perceptual and social impacts through controlled user studies.
+My work bridges human-centered design and technical implementation to enhance
+natural and meaningful communication in extended reality systems.
